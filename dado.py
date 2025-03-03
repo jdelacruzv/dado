@@ -1,8 +1,3 @@
-"""
-    Author: José De La Cruz
-    Created: 2020-04-15
-    Modified: 2021-08-26 - Cambio de librería de playsound a pygame
-"""
 from random import randint
 import pygame as pg
 
